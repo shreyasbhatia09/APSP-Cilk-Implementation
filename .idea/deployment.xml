@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Stampede">
+    <serverData>
+      <paths name="Stampede">
+        <serverdata>
+          <mappings>
+            <mapping deploy="CSE524" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

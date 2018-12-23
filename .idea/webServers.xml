@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="308c822e-781b-4bf6-a3e9-ac4e87e44ed6" name="Stampede" url="http://shbhatia@stampede2.tacc.utexas.edu">
+        <fileTransfer host="shbhatia@stampede2.tacc.utexas.edu" port="22" rootFolder="/home1/05595/shbhatia" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
